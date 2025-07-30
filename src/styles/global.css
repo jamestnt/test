@@ -1,7 +1,37 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
 
+body,
+html {
+  font-family: "Nunito", sans-serif !important;
+}
+
+h2,
+h3 {
+  font-family: "Nunito", sans-serif !important;
+}
+.blur {
+  filter: blur(10px);
+}
+.modal {
+  transition: 200ms;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+}
+
+.showModal_true {
+  opacity: 1;
+  z-index: 9999999999;
+}
+.showModal_false {
+  opacity: 0;
+  z-index: -1;
+}
 .color_bg {
   display: block;
   position: absolute;
@@ -9,6 +39,7 @@
   left: 0;
   width: 100%;
   height: 200px;
+  border-radius: 8px 8px 0px 0px;
 }
 .color_bg._1 {
   background-color: #b82d44;
