@@ -4,153 +4,153 @@
     "name": "Articuno",
     "description": "Pokémon legendario de tipo Hielo/Volador. Controla ventiscas con gran poder. Su elegancia es inigualable.",
     "price": 599.99,
-    "image": "../images/articuno.png"
+    "image": "../images/products/articuno.png"
   },
   {
     "id": 2,
     "name": "Caterpie",
     "description": "Pequeño Pokémon de tipo Bicho. Evoluciona rápidamente a Metapod. Perfecto para entrenadores novatos.",
     "price": 149.99,
-    "image": "../images/caterpie.png"
+    "image": "../images/products/caterpie.png"
   },
   {
     "id": 3,
     "name": "Charizar",
     "description": "Poderoso Pokémon de tipo Fuego/Volador. Sus llamas queman con intensidad. Temido en combates.",
     "price": 299.99,
-    "image": "../images/charizar.png"
+    "image": "../images/products/charizar.png"
   },
   {
     "id": 4,
     "name": "Charmander",
     "description": "Pokémon inicial de tipo Fuego. Su llama refleja su salud. Ideal para principiantes.",
     "price": 149.99,
-    "image": "../images/charmander.png"
+    "image": "../images/products/charmander.png"
   },
   {
     "id": 5,
     "name": "Cubone",
     "description": "Pokémon de tipo Tierra. Porta un hueso como arma. Su historia es conmovedora.",
     "price": 149.99,
-    "image": "../images/cubone.png"
+    "image": "../images/products/cubone.png"
   },
   {
     "id": 6,
     "name": "Cyndaquil",
     "description": "Pokémon inicial de tipo Fuego. Sus llamas crecen con su salud. Gran potencial evolutivo.",
     "price": 149.99,
-    "image": "../images/cyndaquil.png"
+    "image": "../images/products/cyndaquil.png"
   },
   {
     "id": 7,
     "name": "Dugtrio",
     "description": "Pokémon de tipo Tierra. Excava a gran velocidad. Efectivo en emboscadas.",
     "price": 249.99,
-    "image": "../images/dugtrio.png"
+    "image": "../images/products/dugtrio.png"
   },
   {
     "id": 8,
     "name": "Eve",
     "description": "Pokémon de tipo Normal. Versátil con múltiples evoluciones. Popular entre entrenadores.",
     "price": 149.99,
-    "image": "../images/eve.png"
+    "image": "../images/products/eve.png"
   },
   {
     "id": 9,
     "name": "Gengar",
     "description": "Pokémon de tipo Fantasma/Veneno. Acecha en la oscuridad. Ideal para tácticas sigilosas.",
     "price": 299.99,
-    "image": "../images/gengar.png"
+    "image": "../images/products/gengar.png"
   },
   {
     "id": 10,
     "name": "Jigglypuff",
     "description": "Pokémon de tipo Normal/Hada. Canta para dormir rivales. Encantador pero subestimado.",
     "price": 149.99,
-    "image": "../images/jigglypuff.png"
+    "image": "../images/products/jigglypuff.png"
   },
   {
     "id": 11,
     "name": "Leafeon",
     "description": "Pokémon de tipo Planta, evolución de Eevee. Resiste en entornos naturales. Gran agilidad.",
     "price": 249.99,
-    "image": "../images/leafeon.png"
+    "image": "../images/products/leafeon.png"
   },
   {
     "id": 12,
     "name": "Lucario",
     "description": "Pokémon de tipo Lucha/Acero. Domina el combate con aura. Muy leal.",
     "price": 299.99,
-    "image": "../images/lucario.png"
+    "image": "../images/products/lucario.png"
   },
   {
     "id": 13,
     "name": "Mew",
     "description": "Pokémon legendario de tipo Psíquico. Posee habilidades únicas. Muy raro y codiciado.",
     "price": 599.99,
-    "image": "../images/mew.png"
+    "image": "../images/products/mew.png"
   },
   {
     "id": 14,
     "name": "Pikachu",
     "description": "Pokémon de tipo Eléctrico. Famoso por sus descargas. Ícono adorado mundialmente.",
     "price": 199.99,
-    "image": "../images/pikachu.png"
+    "image": "../images/products/pikachu.png"
   },
   {
     "id": 15,
     "name": "Psyduck",
     "description": "Pokémon de tipo Agua. Sus dolores desatan poderes psíquicos. Impredecible en batalla.",
     "price": 149.99,
-    "image": "../images/psyduck.png"
+    "image": "../images/products/psyduck.png"
   },
   {
     "id": 16,
     "name": "Sandshrew",
     "description": "Pokémon de tipo Tierra. Se enrolla para protegerse. Ideal en desiertos.",
     "price": 149.99,
-    "image": "../images/sandshrew.png"
+    "image": "../images/products/sandshrew.png"
   },
   {
     "id": 17,
     "name": "Slowbro",
     "description": "Pokémon de tipo Agua/Psíquico. Resistente con poderes mentales. Calma pero fuerte.",
     "price": 249.99,
-    "image": "../images/slowbro.png"
+    "image": "../images/products/slowbro.png"
   },
   {
     "id": 18,
     "name": "Snorlax",
     "description": "Pokémon de tipo Normal. Bloquea caminos con su cuerpo. Muy resistente.",
     "price": 249.99,
-    "image": "../images/snorlax.png"
+    "image": "../images/products/snorlax.png"
   },
   {
     "id": 19,
     "name": "Togepi",
     "description": "Pokémon de tipo Hada. Irradia felicidad y suerte. Adorable y frágil.",
     "price": 149.99,
-    "image": "../images/togepi.png"
+    "image": "../images/products/togepi.png"
   },
   {
     "id": 20,
     "name": "Totodile",
     "description": "Pokémon inicial de tipo Agua. Sus mandíbulas son poderosas. Gran potencial.",
     "price": 149.99,
-    "image": "../images/totodile.png"
+    "image": "../images/products/totodile.png"
   },
   {
     "id": 21,
     "name": "Totoro",
     "description": "Pokémon no oficial, inspirado en un personaje fantástico. Encantador y único. Atrae a fans.",
     "price": 199.99,
-    "image": "../images/totoro.png"
+    "image": "../images/products/totoro.png"
   },
   {
     "id": 22,
     "name": "Umbreon",
     "description": "Pokémon de tipo Siniestro, evolución de Eevee. Resistente y sigiloso. Brilla en la noche.",
     "price": 249.99,
-    "image": "../images/umbreon.png"
+    "image": "../images/products/umbreon.png"
   }
 ]
