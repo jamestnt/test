@@ -2,6 +2,7 @@ version: "3"
 services:
   gatsby:
     build: .
+    container_name: frontend
     ports:
       - "8000:8000"
     volumes:
