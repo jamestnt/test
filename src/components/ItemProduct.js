@@ -1,5 +1,4 @@
 import React from "react";
-// import { GatsbyImage } from "gatsby-plugin-image";
 
 export default function ItemProduct(props) {
   let CardName = `color_bg _${(props.index % 12) + 1}`;
@@ -12,11 +11,6 @@ export default function ItemProduct(props) {
     >
       <div className=" mt-[60px] mx-[10px] pt-[300px] box-border relative shadow-[0_0_20px_10px_rgba(25,25,25,0.1)] transition-all duration-300 ease-in-out transform hover:translate-y-[-10px]">
         <div className={CardName}></div>
-        {/* <GatsbyImage
-          image={props.image}
-          alt={props.title}
-          className="absolute  bottom-[calc(100%-300px)] w-full h-[300px] transition-all duration-300 ease-in-out hover:h-[350px]"
-        /> */}
         <div
           className="bg-contain bg-no-repeat bg-[position:center] absolute bottom-[calc(100%-300px)] w-full h-[300px] transition-all duration-300 ease-in-out hover:h-[350px]"
           style={{ backgroundImage: bg_img }}
